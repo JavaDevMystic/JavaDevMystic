@@ -1,23 +1,20 @@
-# 👋 Salom, men Zaripov Muxiddin Java backend dasturchiman!
+👋 Salom, men Zaripov Muxiddin — Java backend dasturchiman!
+Men — junior darajadagi Java backend dasturchiman. Asosiy yo‘nalishim — Spring ekotizimi asosida web-ilovalar ishlab chiqish. Yangi texnologiyalarni o‘rganish va ularni amaliy loyihalarda qo‘llash orqali doimiy rivojlanishga intilaman. Loyihalarimda asosan microservices arxitekturasi, RESTful API, va Spring Boot texnologiyalaridan foydalanaman.
 
-Men — Java dasturlash tilida ishlovchi backend dasturchiman (junior darajada). Men asosan bu sohaga oid yangi texnologiyalarni o'rganish va mana shu texnologiyarni o'zimning projectlarimga tadbiq etishni yoqtiraman.Ko'proq loyxalarimda microservicelar bilan ishlayma va bundan tashqari Spring ecotizimi bilan lo'proq ishlayman.
+💻 Texnologiyalar va Ko‘nikmalar
+💡 Backend: Java, Spring Boot, Spring Security, Hibernate, REST API
+🛢 Ma’lumotlar bazasi: PostgreSQL, MySQL
+⚙️ Versiya boshqaruvi: Git, GitHub
+☁️ Qo‘shimcha: Docker, Swagger, IntelliJ IDEA
 
----
+🎯 Maqsadlarim
+Spring va Java ekotizimini chuqurroq o‘zlashtirish
 
-## 💻 Texnologiyalar va Ko‘nikmalar
-- 💡 **Backend:** Java, Spring Boot, Spring Security, Hibernate, REST API
-- 🛢 **Ma’lumotlar bazasi:** PostgreSQL, MySQL
-- ⚙️ **Versiya boshqaruvi:** Git, GitHub
-- ☁️ **Qo‘shimcha:** Docker, Swagger, IntelliJ IDEA
+Microservices va DevOps konsepsiyalarini amaliyotda qo‘llash
 
----
+O‘zbekistonning yetakchi IT kompaniyalarida faoliyat yuritib tajriba orttirish
 
-## 🎯 Maqsadlarim
-- 🔄 Spring va Java ekotizimini chuqurroq o‘rganish
-- ☁️ Microservices va DevOps asoslarini o‘zlashtirish
-- 🇺🇿 Localniy IT companiayalarda kuchli dasturchilar orasida ishlab o'zimni rivojlantirish
-- 🌍 Xalqaro IT loyihalarda ishlash va tajriba oshirish
-
+Kelajakda xalqaro loyihalarda qatnashib, malakali dasturchiga aylanish
 ---
 
 ## 📫 Menga bog‘lanish:
